@@ -7,7 +7,7 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Enceplzzz/Database/main/Gif/ChikaFujiwara.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Enceplzzz&label=Profile%20views&color=0e75b6&style=flat" alt="Enceplzzz" /> </p>
 
 ## ```Contact Me 💌``` 
   <a href="https://wa.me/6282213009085">
